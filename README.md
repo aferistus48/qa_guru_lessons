@@ -1,2 +1,9 @@
-# qa_guru_lessons
-learn sdet on qa_guru
+# Git - Lesson 2 
+- Гит используется для хранения кода в репозитории (github)
+## Команды гит
+- git add path - отслеживать изменения файлов в 
+- git commit -m "comment" - сохранить изменения 
+- git push - отправить изменения в удаленный репозиторий
+- git 
+
+## ssh Ключи
